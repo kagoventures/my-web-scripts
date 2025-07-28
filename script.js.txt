@@ -1,0 +1,5 @@
+// script.js
+
+function notifySignup() {
+  alert("Thanks for signing up! We'll keep you posted.");
+}
